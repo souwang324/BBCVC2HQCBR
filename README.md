@@ -13,7 +13,7 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 # ENVIRONMENT
-   OS       : Windows 11
-   Libaray  : BOOST 1.68.0 Library
-   Platform : Win32 (x86)
-   CMake >= 3.12
+   OS       : Windows 11 \
+   Libaray  : BOOST 1.68.0 Library \
+   Platform : Win32 (x86) \
+   CMake >= 3.12 
