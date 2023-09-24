@@ -1,0 +1,8 @@
+D:/GitSrc/pushVc2/BBCVC2HQCBR/build/CMakeFiles/ALL_BUILD.dir
+D:/GitSrc/pushVc2/BBCVC2HQCBR/build/CMakeFiles/ZERO_CHECK.dir
+D:/GitSrc/pushVc2/BBCVC2HQCBR/build/Library/CMakeFiles/vc2Library.dir
+D:/GitSrc/pushVc2/BBCVC2HQCBR/build/Library/CMakeFiles/ALL_BUILD.dir
+D:/GitSrc/pushVc2/BBCVC2HQCBR/build/EncodeHQ_CBR/CMakeFiles/EncodeHQ_CBR.dir
+D:/GitSrc/pushVc2/BBCVC2HQCBR/build/EncodeHQ_CBR/CMakeFiles/ALL_BUILD.dir
+D:/GitSrc/pushVc2/BBCVC2HQCBR/build/DecodeHQ/CMakeFiles/DecodeHQ.dir
+D:/GitSrc/pushVc2/BBCVC2HQCBR/build/DecodeHQ/CMakeFiles/ALL_BUILD.dir

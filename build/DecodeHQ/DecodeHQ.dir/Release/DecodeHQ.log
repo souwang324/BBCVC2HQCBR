@@ -1,0 +1,6 @@
+﻿  DecodeHQ_Test.cpp
+D:\GitSrc\pushVc2\BBCVC2HQCBR\src\DecodeHQ\DecodeHQ_Test.cpp(103): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GitSrc\pushVc2\BBCVC2HQCBR\src\DecodeHQ\DecodeHQ_Test.cpp(108): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GitSrc\pushVc2\BBCVC2HQCBR\src\DecodeHQ\DecodeHQ_Test.cpp(113): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GitSrc\pushVc2\BBCVC2HQCBR\src\DecodeHQ\DecodeHQ_Test.cpp(403): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  DecodeHQ.vcxproj -> D:\GitSrc\pushVc2\BBCVC2HQCBR\build\DecodeHQ\Release\DecodeHQ.exe

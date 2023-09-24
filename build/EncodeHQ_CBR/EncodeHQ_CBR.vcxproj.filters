@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\EncodeHQ_CBR\EncodeHQ_CRB_Test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\EncodeHQ_CBR\EncodeParams.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\Arg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\ArgException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\ArgTraits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\CmdLine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\CmdLineInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\CmdLineOutput.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\Constraint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\DocBookOutput.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\HelpVisitor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\IgnoreRestVisitor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\MultiArg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\MultiSwitchArg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\OptionalUnlabeledTracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\StandardTraits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\StdOutput.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\SwitchArg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\UnlabeledMultiArg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\UnlabeledValueArg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\ValueArg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\ValuesConstraint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\VersionVisitor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\Visitor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\XorHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\tclap\ZshCompletionOutput.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\EncodeHQ_CBR\EncodeParams.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\EncodeHQ_CBR\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6BF39DF2-E2DD-3C98-9085-00B1AECD173B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E4D1D52B-6F59-3862-80EB-67AA92C23A81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

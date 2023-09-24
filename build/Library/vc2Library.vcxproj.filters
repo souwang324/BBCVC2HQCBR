@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\src\Arrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\src\DataUnit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\src\Frame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\src\Picture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\src\Quantisation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\src\Slices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\src\Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\src\VLC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\src\WaveletTransform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\Arrays.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\DataUnit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\Frame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\FrameResolutions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\Picture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\Quantisation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\Slices.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\Utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\VLC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\WaveletTransform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GitSrc\pushVc2\BBCVC2HQCBR\src\Library\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6BF39DF2-E2DD-3C98-9085-00B1AECD173B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E4D1D52B-6F59-3862-80EB-67AA92C23A81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
